@@ -1,0 +1,3 @@
+[submodule "minivm-sys/minivm"]
+	path = minivm-sys/minivm
+	url = https://github.com/fastvm/minivm
